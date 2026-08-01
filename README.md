@@ -36,11 +36,15 @@
 
 **Events & Marketing Head**  
 _Entrepreneurship Cell IET-DAVV (December 2024 – Present)_  
-Led planning and execution of FO '25, YEC(Young Entrepreneur Confluence)2.0. Managed a footfall of 1,500+ students from across Indore and led cross-functional teams of 150+ members, coordinating timelines and execution strategy to promote innovation and startup culture.
+- Led planning of FO'25 and YEC 2.0
+- Managed 150+ volunteers
+- Organized events for 1500+ attendees
 
 **Marketing Team Coordinator**  
-_Google Developer Groups - On Campus, IET-DAVV(January 2025 - October 2025)_  
-Served as Marketing Team Coordinator for GDG on Campus IET DAVV, overseeing team coordination and driving strategic promotion to strengthen campus developer engagement.
+_Google Developer Groups - On Campus, IET-DAVV (January 2025 - October 2025)_  
+- Coordinated marketing initiatives for campus events
+- Managed cross-functional team communication
+- Increased student engagement through strategic promotions
 
 ---
 
