@@ -35,7 +35,24 @@
 ### 🏆 Leadership
 
 **Events & Marketing Head**  
-_SRM ACM SIGKDD Student Chapter (April 2025 – Present)_  
-Led technical events, research collaborations & ML/AI workshops for 80+ members.
+_Entrepreneurship Cell IET-DAVV (December 2024 – Present)_  
+Led planning and execution of FO '25, YEC(Young Entrepreneur Confluence)2.0. Managed a footfall of 1,500+ students from across Indore and led cross-functional teams of 150+ members, coordinating timelines and execution strategy to promote innovation and startup culture.
+
+**Marketing Team Coordinator**  
+_Google Developer Groups - On Campus, IET-DAVV(January 2025 - October 2025)_  
+Served as Marketing Team Coordinator for GDG on Campus IET DAVV, overseeing team coordination and driving strategic promotion to strengthen campus developer engagement.
 
 ---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:aryajha697@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryajha17"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Arya-1706"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://arya-1706.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge"/></a>
+</p>
+
+---
+
+_✨ Built with passion. Let's innovate together!_
