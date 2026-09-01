@@ -26,8 +26,12 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arya-1706&theme=react-dark&area=true" />
+</p> -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arya-1706&theme=rose" />
 </p>
 
 ---
